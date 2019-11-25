@@ -1,0 +1,2 @@
+cd supla-core/supla-dev/Release
+./supla-dev -c ./supla.cfg
